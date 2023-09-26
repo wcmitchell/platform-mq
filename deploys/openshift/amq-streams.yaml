@@ -8,7 +8,7 @@ parameters:
   value: 250Gi
 - name: KAFKA_VERSION
   description: kafka version
-  value: 2.7.0
+  value: 3.2.3
 - name: ZK_VOL_SIZE
   description: Size of volumes for Zookeeper nodes
   value: 50Gi
